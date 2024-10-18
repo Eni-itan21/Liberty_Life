@@ -1,0 +1,5 @@
+psycopg2-binary                  
+pandas                          
+streamlit==1.36.0
+plotly-express                
+streamlit-date-picker==0.0.3
